@@ -1,165 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9e1646e-5434-4698-a51d-3b1f747ce757" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/META-INF/First.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson10/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson10/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson10/Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson10/Square.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson11/CanCharge.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson11/CanCook.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson11/ElectroCar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson11/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson11/Multivarka.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson11/Plita.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson11/Telephone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson8/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson8/Human.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson8/Lab1/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson8/Lab1/Engine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson8/Lab1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson8/Lab4/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson8/Lab4/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson8/Lab6/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson8/Lab6/Library.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson8/Lab6/LiteratureBook.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson8/Lab6/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson8/Lab6/ScientificBook.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson8/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson8/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson9/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson9/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson9/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Lesson9/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Others/Database.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Others/Domashka.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Others/Lesson2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Others/Lesson3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Others/Lesson7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Others/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Others/Main2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Project/BankAccount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Project/CityBankATM.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Project/CityBankAccount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Project/Database.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module1/Project/NationalBankAccount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson1/MainFrame$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson1/MainFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson1/Menu$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson1/Menu$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson1/Menu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson1/SecondFrame$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson1/SecondFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson2/Lab/Connection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson2/Lab/DatabaseDriverUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson2/Lab/DatabaseIncorrectException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson2/Lab/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson2/Lab/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson2/MyException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson3/Lab/Account.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson3/Lab/BankApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson3/Lab/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson3/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson3/Post.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson3/Stack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson4/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson5/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson5/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson6/Lab/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson6/Lab/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson6/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson6/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson7/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson7/ClientHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson7/Server.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson8/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson8/DBManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/First/bitlab/askar/Module2/Lesson8/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson10/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson10/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson10/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson11/CanCharge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson11/CanCook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson11/ElectroCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson11/Multivarka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson11/Plita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson11/Telephone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson8/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson8/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson8/Lab1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson8/Lab1/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson8/Lab1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson8/Lab4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson8/Lab4/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson8/Lab6/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson8/Lab6/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson8/Lab6/LiteratureBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson8/Lab6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson8/Lab6/ScientificBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson8/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson9/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson9/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson9/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Lesson9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Others/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Others/Domashka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Others/Lesson2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Others/Lesson3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Others/Lesson7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Others/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Others/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Project/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Project/CityBankATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Project/CityBankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Project/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module1/Project/NationalBankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson1/MainFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson1/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson1/SecondFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson2/Lab/Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson2/Lab/DatabaseDriverUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson2/Lab/DatabaseIncorrectException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson2/Lab/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson2/Lab/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson2/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson3/Lab/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson3/Lab/BankApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson3/Lab/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson3/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson3/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson5/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson6/Lab/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson6/Lab/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson6/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson7/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson7/ClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson7/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson8/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson8/DBManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson8/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="f9e1646e-5434-4698-a51d-3b1f747ce757" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -195,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson8/DBManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+            <state relative-caret-position="192">
+              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -320,6 +162,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="askar" type="462c0819:PsiDirectoryNode" />
               <item name="Module2" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="First" type="b2602c69:ProjectViewProjectNode" />
+              <item name="First" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="askar" type="462c0819:PsiDirectoryNode" />
+              <item name="Module2" type="462c0819:PsiDirectoryNode" />
               <item name="Lesson4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -349,7 +199,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597502484280" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597502587612" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -541,15 +391,16 @@
       <workItem from="1596546728689" duration="4178000" />
       <workItem from="1596891554216" duration="3617000" />
       <workItem from="1597151510525" duration="3996000" />
-      <workItem from="1597500407368" duration="953000" />
+      <workItem from="1597500407368" duration="1185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78810000" />
+    <option name="totallyTimeSpent" value="79042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21745351" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1108,8 +959,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bitlab/askar/Module2/Lesson8/DBManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        <state relative-caret-position="192">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
