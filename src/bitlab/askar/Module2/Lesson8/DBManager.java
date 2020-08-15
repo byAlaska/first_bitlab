@@ -9,7 +9,6 @@ import java.util.ArrayList;
 public class DBManager {
 
     private Connection connection;
-    private String name;
 
     public void connect() {
         try {
