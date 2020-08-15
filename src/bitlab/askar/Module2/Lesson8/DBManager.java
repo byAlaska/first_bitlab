@@ -10,18 +10,6 @@ public class DBManager {
 
     private Connection connection;
 
-    //Users/marcus/Documents/bitlab_se1/BitlabNew/First
-
-
-
-    //C:\Users\user\
-    //C:\Users\user\downloads\bitlab\first
-    //cd downloads\bitlab\first
-
-    //Users/marcus/Documents/bitlab_se1/BitlabNew/First
-
-
-
     public void connect() {
         try {
 
